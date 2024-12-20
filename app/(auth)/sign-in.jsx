@@ -1,15 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import "../global.css";
 
-const Profile = () => {
+const SignIn = () => {
   return (
     <View>
-      <Text>Profile</Text>
+      <Text>SignIn</Text>
     </View>
   )
 }
 
-export default Profile
+export default SignIn
 
 const styles = StyleSheet.create({})
